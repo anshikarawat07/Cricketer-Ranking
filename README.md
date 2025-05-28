@@ -60,6 +60,9 @@ streamlit run app.py
 4. Upload the batting and bowling CSV files via the sidebar, select the desired ML model, and explore rankings, commentary, and model performance.
 
 ---
+![image](https://github.com/user-attachments/assets/b4fd06f6-0a4e-43d0-98e2-4bc0b5c5a4c7)
+
+---
 
 ## Data Description
 
